@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vpoua/script/main/StarScriptsV2.lua"))()
